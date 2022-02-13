@@ -15,7 +15,9 @@
   import Axios from "network/axios"
 export default {
   name: "Login",
-
+  data: () {
+    
+  }
 };
 </script>
 
